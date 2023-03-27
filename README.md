@@ -1,3 +1,4 @@
+![ipt](./images/ipt.png)
 # Architekturdokumentation
 
 ## Qualitätsziele
