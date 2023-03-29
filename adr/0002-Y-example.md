@@ -1,13 +1,12 @@
-# In the context of
+# In the context of / Im Rahmen von
 
+# facing / wo wir auf  
 
+# we decided / gestossen sind, haben wir entschieden
 
-# facing
+# and neglected / zu wählen, und vernachlässigten 
 
-# we decided
+# to achieve / um 
 
-# and neglected
+# accepting that / zu erreichen
 
-# to achieve
-
-# accepting that
