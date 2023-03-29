@@ -8,5 +8,5 @@
 
 # to achieve / um 
 
-# accepting that / zu erreichen
+# accepting that / zu erreichen und akzeptieren daher
 
