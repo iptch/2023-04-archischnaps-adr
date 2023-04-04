@@ -19,14 +19,15 @@
 
 ## Stakeholder Fleurop
 
-| Rolle                    | Kontakt        | Relevanz        | Erwartungshaltung |
-|--------------------------|----------------|-----------------|-------------------|
-| Zahlung-Dienstleister    | *\<Kontakt-1>* | *\<Relevanz-1>* | *\<Erwartung-1>*  |
-| Inkasso-Dienstleister    | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
-| andere Fleurops Branches | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
-| Endkunden                | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
-| Fleurop Kundendienst     | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
-| Blumenläden              | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Rolle                            | Kontakt        | Relevanz        | Erwartungshaltung |
+|----------------------------------|----------------|-----------------|-------------------|
+| Payment Dienstleister            | *\<Kontakt-1>* | *\<Relevanz-1>* | *\<Erwartung-1>*  |
+| Bonitätsprüfung / Inkasso        | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Landesorganisationen Fleurop     | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Besteller                        | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Empfänger                        | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Fleurop Kundendienst Mitarbeiter | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Blumenläden                      | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
 
 
 
