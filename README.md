@@ -11,9 +11,25 @@
 
 ## Qualitätsszenarien
 
-### Szenario 1
-User setzt am 13. Februar via GUI einen order für einen Blumenstrauss ab und erwartet, dass die Bestellung aus seiner Sicht (Feedback GUI) <3 Sekunden durchgelaufen ist. 
+### User-Szenarien
 
+#### Szenario 1
+Als Besteller erwarte ich am 13.02. nach Absetzen einer Order via Fleurop Webshop ein Feedback zum Bestellstatus im GUI innerhalb von <3 Sekunden. 
+
+#### Szenario 2
+Als Mitarbeiter im Callcenter erwarte ich ein Bestellsystem für das Platzieren von orders auf das Blumenläden Zugriff haben.
+
+#### Szenario 3
+Als Blumenladen erwarte ich, dass Bestellungen mindestens 8h vor geplanter Auslieferung beim Blumenladen im GUI des Fleurop Bestell-Systems sichtbar ist.
+
+#### Szenario 4
+Als Blumenladen erwarte ich, dass Bestellungen vollständig spezifiziert sind dh. alle Pflichtfelder im Order-System ausgefüllt sind.
+
+### Änderungs-Szenarien
+asdf
+
+### Ausfall-Szenarien
+asdf
 
 
 ## Stakeholder Fleurop
