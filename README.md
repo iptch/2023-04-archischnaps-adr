@@ -12,8 +12,7 @@
 ## Qualitätsszenarien
 
 ### Szenario 1
-
-*Wenn ein Benutzer im Personen- verzeichnis nach einem Vornamen sucht, wird das Resultat in 90% aller Aufrufe in weniger als 1 Sekunde angezeigt.*
+User setzt am 13. Februar via GUI einen order für einen Blumenstrauss ab und erwartet, dass die Bestellung aus seiner Sicht (Feedback GUI) <3 Sekunden durchgelaufen ist. 
 
 
 
