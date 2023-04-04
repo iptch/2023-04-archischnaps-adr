@@ -11,9 +11,33 @@
 
 ## Qualitätsszenarien
 
-### Szenario 1
+### User-Szenarien
 
-*Wenn ein Benutzer im Personen- verzeichnis nach einem Vornamen sucht, wird das Resultat in 90% aller Aufrufe in weniger als 1 Sekunde angezeigt.*
+Die Entscheidung, welche Daten geteilt werden, liegt beim Enduser.
+
+Ein Zugriff auf andere Userdaten ist nicht ohne deren Einwilligung möglich.
+
+Ein gemeldetes Datenleak / Issue muss innerhalb von 24h geschlossen sein.
+
+Auf Userwunsch müssen Daten innerhalb von 24h gelöscht werden können.
+
+Als Werbepartner kann ich mich selbstständig registrieren.
+
+### Änderungs-Szenarien
+
+Änderungen an bestehenden Systemen werden innerhalb von 6 Monaten nachgezogen.
+
+### Ausfall-Szenarien
+
+Bei einem Systemausfall ist das System in 98% der Fälle nach spätestens 30min wieder verfügbar.
+
+Wenn ein User eine Strecke aufzeichnen möchte, ist dies in 99.99% der Fälle ohne Einschränkung möglich.
+
+Wenn ein User offline ist, können Daten lokal gespeichert werden, bis wieder eine Verbindung zum Server besteht.
+
+Bei einem Systemausfall greift ein Backup-System, es gehen maximal 24h an Daten verloren.
+
+
 
 
 
