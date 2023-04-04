@@ -19,10 +19,16 @@
 
 ## Stakeholder
 
-| Rolle        | Kontakt        | Relevanz        | Erwartungshaltung |
-|--------------|----------------|-----------------|-------------------|
-| *\<Rolle-1>* | *\<Kontakt-1>* | *\<Relevanz-1>* | *\<Erwartung-1>*  |
-| *\<Rolle-2>* | *\<Kontakt-2>* | *\<Relevanz-2>* | *\<Erwartung-2>*  |
+| Rolle                     | Kontakt | Relevanz | Erwartungshaltung |
+| ------------------------- | ------- | -------- | ----------------- |
+| *Wearable-Hersteller*     |         | Mittel   | *\<Erwartung-1>*  |
+| *Werbepartner*            |         | Hoch     | *\<Erwartung-2>*  |
+| *User (free)*             |         |          |                   |
+| *User (premium)*          |         | Hoch     |                   |
+| *Geldgeber*               |         | Hoch     |                   |
+| *Entwicklungsteam*        |         |          |                   |
+| *Datenschutzbeauftragter* |         |          |                   |
+| *Datenkonsumenten*        |         |          |                   |
 
 
 
