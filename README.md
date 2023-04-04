@@ -19,16 +19,16 @@
 
 ## Stakeholder
 
-| Rolle                     | Kontakt | Relevanz | Erwartungshaltung |
-| ------------------------- | ------- | -------- | ----------------- |
-| *Wearable-Hersteller*     |         | Mittel   | *\<Erwartung-1>*  |
-| *Werbepartner*            |         | Hoch     | *\<Erwartung-2>*  |
-| *User (free)*             |         |          |                   |
-| *User (premium)*          |         | Hoch     |                   |
-| *Geldgeber*               |         | Hoch     |                   |
-| *Entwicklungsteam*        |         |          |                   |
-| *Datenschutzbeauftragter* |         |          |                   |
-| *Datenkonsumenten*        |         |          |                   |
+| Rolle                     | Kontakt | Relevanz | Erwartungshaltung                                            |
+| ------------------------- | ------- | -------- | ------------------------------------------------------------ |
+| *Wearable-Hersteller*     |         | Tief     | Gute Integration ihrer Produkte                              |
+| *Werbepartner*            |         | Hoch     | Hohes Engagement<br />Conversion-Rate<br />Qualitative Daten<br /> |
+| *User (free)*             |         | Mittel   | User Experience<br />Verfügbarkeit<br />Features<br />Social Networking |
+| *User (premium)*          |         | Hoch     | Same as User<br />Mehr Features<br />Price/Value             |
+| *Geldgeber*               |         | Hoch     | Wachstum oder Return on Investment                           |
+| *Entwicklungsteam*        |         | Tief     | Spannendes Projekt<br />Coole Technologien                   |
+| *Datenschutzbeauftragter* |         | Mittel   | Einhaltung der geltenden Rechte<br />Daten vor Zugriff schützen<br /> |
+| *Datenkonsumenten*        |         | Tief     | Aussagekräftige Daten<br />viele User / repräsentativ        |
 
 
 
